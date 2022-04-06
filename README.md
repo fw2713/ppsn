@@ -1,4 +1,4 @@
-# code
+# Code
 Perceptual Position-aware Shapelet Network
 
 ## Dependencies
