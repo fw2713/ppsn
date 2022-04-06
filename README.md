@@ -10,3 +10,6 @@ We provide the demo of ECGFiveDays in the UCR dataset.  The ECGFiveDays dataset 
 python ppsn_demo.py
 ```
 to test the model.
+
+# Classification Result
+You can see the full results on 112 UCR datasets in `results/`, in that `results/ppsn_vs_sbc.csv` contains the results of PPSN and other Shapelet-based Classifiers, while `results/ppsn_vs_sota.csv` contains the results of SOTA methods.
